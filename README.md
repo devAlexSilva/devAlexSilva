@@ -15,14 +15,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAlexSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>  
 <div style="display: inline_block"><br>
-  <img align="center" alt="icon of Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="icon of Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="icon of NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="icon of Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="icon of jamstack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
-  <img align="center" alt="icon of HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon of CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="image of good vibes to programers" height="150" style="border-radius:50px;" 
+  <img align="center" alt="icon of Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="icon of Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="icon of NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="icon of Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="icon of jamstack" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
+  <img align="center" alt="icon of HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon of CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="image of good vibes to programers" height="180" style="border-radius:50px;" 
        src="https://user-images.githubusercontent.com/81701720/159366372-fcd668bd-f9ac-44be-8f3d-1473fad95ed5.jpg?width=676&height=676">
 </div>  
   
