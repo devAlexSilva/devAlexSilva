@@ -1,6 +1,6 @@
 <h1 align="center"> hi! </h1><p align="center"> i'm Alex🙌 let´s code </p>
 <div>  
-🤍 Estudando e Amando o universo Js<br><br>
+🤍 Estudando e Amando o universo Js (cursando TI)<br><br>
 
 👨🏾‍💻  Em breve quero aprender Ts e futuramente Ruby ou GoLang  
 
