@@ -1,12 +1,12 @@
 <h1 align="center"> hi! </h1><p align="center"> i'm Alex🙌 let´s code </p>
 <div>  
-🤍 Estudando e Amando o universo Js (cursando TI)<br><br>
+🤍 studying web developed and loveling the js universe<br><br>
 
-👨🏾‍💻  Em breve quero aprender Ts e futuramente Ruby ou GoLang  
+👨🏾‍💻  soon i wanna learning TS and in the future Golang
 
-- 1️⃣ Em busca do primeiro degrau na minha carreira de Dev ✨recrutadores: só chamar kkk✨
+- 1️⃣ Looking for the ✨first opportunity✨ to improve my skills in development
   
-- 2️⃣ Gosto de aprender e ensinar. Um Pair Programming é sempre bem vindo ✨Devs: só chamar kkk✨
+- 2️⃣ I like to learn and teach. a ✨Pair Programming✨ it's always welcome 
 <hr><br><br>
 </div>
 
