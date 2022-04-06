@@ -27,8 +27,7 @@
   <img align="center" alt="icon of CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="right" alt="image of good vibes to programers" height="180" style="border-radius:50px;" 
        src="https://user-images.githubusercontent.com/81701720/159366372-fcd668bd-f9ac-44be-8f3d-1473fad95ed5.jpg?width=676&height=676" />
-</div>
-  
+</div>  
   
   ## <h2><br><br>contato:</h2>
   
@@ -42,7 +41,9 @@
    <h3> Visitantes </h3>  
 
  <div>
-
   <img align="center" alt="total de visitas no perfil" height="30" width="150" src="https://komarev.com/ghpvc/?username=devAlexSilva&color=green" alt="devAlexSilva" /> <br>
+ </div><br><br>
 
- </div>  
+## 🚀 Current Studies
+
+starting the studies with POO to improve the quality of my codes
