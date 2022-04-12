@@ -42,8 +42,4 @@
 
  <div>
   <img align="center" alt="total de visitas no perfil" height="30" width="150" src="https://komarev.com/ghpvc/?username=devAlexSilva&color=green" alt="devAlexSilva" /> <br>
- </div><br><br>
-
-## 🚀 Current Studies
-
-starting the studies with POO to improve the quality of my codes
+ </div>
