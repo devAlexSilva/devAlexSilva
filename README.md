@@ -4,9 +4,9 @@
 
 👨🏾‍💻  soon i wanna learning TS and in the future Golang
 
-- 1️⃣ Looking for the ✨first opportunity✨ to improve my skills in development
+- 1️⃣ Always developing a new project to improve my skills in development and... because it's very Good 😂
   
-- 2️⃣ I like to learn and teach. a ✨Pair Programming✨ it's always welcome 
+- 2️⃣ I like to learn and teach. a Pair Programming it's always welcome 
 <hr><br><br>
 </div>
 
