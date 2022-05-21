@@ -1,12 +1,12 @@
 <h1 align="center"> hi! </h1><p align="center"> i'm Alex🙌 let´s code </p>
 <div>  
-🤍 studying web developed and loveling the js universe<br><br>
+🤍 studying web development and loveling the js universe<br><br>
 
-👨🏾‍💻  soon i wanna learning TS and in the future Golang
+👨🏾‍💻  I'm learning TS and in the future i want to learn Golang
 
 - 1️⃣ Always developing a new project to improve my skills in development and... because it's very Good 😂
   
-- 2️⃣ I like to learn and teach. a Pair Programming it's always welcome 
+- 2️⃣ I like to learn and teach. a Pair Programming or Code Review it's always welcome 
 <hr><br><br>
 </div>
 
